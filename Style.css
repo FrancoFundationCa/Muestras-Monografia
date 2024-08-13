@@ -7,6 +7,6 @@ div.absolute {
     padding: 10px;
 }
 h1 {
-    $theme-colors: (
-  "primary":    $primary,);
+    $colors: (
+  "blue":       $blue,);
 }
