@@ -8,4 +8,5 @@ div.absolute {
 }
 h1 {
     class="display-1";
+    width: 300px;
 }
