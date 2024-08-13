@@ -6,3 +6,7 @@ div.absolute {
     border: 3px solid #0000;
     padding: 10px;
 }
+h1 {
+    $theme-colors: (
+  "primary":    $primary,);
+}
