@@ -1,8 +1,8 @@
 
 h1 {
-    FONT SIZE=7;
-    strong;
-    class="display-1";
-    width: 300px;
-    padding: 100px;
-}
+        text-align: center;
+        font-family: "Delius Swash Caps";
+        font-weight: 700;
+        font-size: 3.3rem;
+        color: #f0decb;
+    }
