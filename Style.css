@@ -6,3 +6,9 @@ h1 {
         font-size: 3.3rem;
         color: #f0decb;
     }
+#carousel {
+        text-align: center;
+        margin: 6% auto;
+        position: relative;
+        /*width: 50%;*/
+    }
