@@ -23,5 +23,5 @@ e {
 .carousel-control-next,
 .carousel-control-prev {
     filter: invert(100%);
-    font-size: 2rem;
+    font-size: 4rem;
 }
