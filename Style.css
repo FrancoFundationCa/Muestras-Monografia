@@ -20,3 +20,7 @@ e {
         /*width: 50%;*/
         color: #f0decb;
     }
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
