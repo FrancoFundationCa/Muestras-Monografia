@@ -20,8 +20,19 @@ e {
         /*width: 50%;*/
         color: #f0decb;
     }
-.carousel-control-next,
-.carousel-control-prev {
-    filter: invert(100%);
-    font-size: 4rem;
+
+.carousel .carousel-control-prev {
+  position: absolute;
+  left: -30%;
+  z-index: 1;
+  color: #0a0a0a !important;
+  font-weight: bold;
+}
+
+.carousel .carousel-control-next {
+  position: absolute;
+  right: -30%;
+  z-index: 1;
+  color: #0a0a0a !important;
+  font-weight: bold;
 }
