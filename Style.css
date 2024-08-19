@@ -37,7 +37,7 @@ e {
   font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 200px) {
   .carousel .carousel-control-prev {
     left: 0%;
     color: #2d40af !important;
