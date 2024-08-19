@@ -18,14 +18,14 @@ e {
         margin: 6% auto;
         position: relative;
         /*width: 50%;*/
-        color: #f0decb;
+        color: #2d40af;
     }
 
 .carousel .carousel-control-prev {
   position: absolute;
   left: -30%;
   z-index: 1;
-  color: #0a0a0a !important;
+  color: #2d40af !important;
   font-weight: bold;
 }
 
@@ -33,18 +33,18 @@ e {
   position: absolute;
   right: -30%;
   z-index: 1;
-  color: #0a0a0a !important;
+  color: #2d40af !important;
   font-weight: bold;
 }
 
 @media (max-width: 768px) {
   .carousel .carousel-control-prev {
     left: 0%;
-    color: #ffffff !important;
+    color: #2d40af !important;
   }
 
   .carousel .carousel-control-next {
     right: 0%;
-    color: #ffffff !important;
+    color: #2d40af !important;
   }
 }
