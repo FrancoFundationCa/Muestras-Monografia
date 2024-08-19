@@ -37,18 +37,14 @@ e {
   font-weight: bold;
 }
 
-.carousel .carousel-control-prev {
-  position: absolute;
-  left: -30%;
-  z-index: 1;
-  color: #0a0a0a !important;
-  font-weight: bold;
-}
+@media (max-width: 768px) {
+  .carousel .carousel-control-prev {
+    left: 0%;
+    color: #ffffff !important;
+  }
 
-.carousel .carousel-control-next {
-  position: absolute;
-  right: -30%;
-  z-index: 1;
-  color: #0a0a0a !important;
-  font-weight: bold;
+  .carousel .carousel-control-next {
+    right: 0%;
+    color: #ffffff !important;
+  }
 }
